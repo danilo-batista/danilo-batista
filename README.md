@@ -11,8 +11,6 @@ Próximo a completar vinte anos de uma carreira envolvida diretamente com Design
 
 Tenho experiências em lidar com diversos stakeholders simultaneamente, integrando os processos necessários para atingir os objetivos propostos e identificar novas oportunidades de melhorias para amplificar a relação entre os colaboradores, a Empresa e os parceiros estratégicos.
 
-Atualmente, finalizei um treinamento focado na stack JavaScript (por meio da Digital House, com o treinamento FullStack Web) e estou me aperfeiçoando na criação de interfaces (UiBoost), o que me possibilita conectar o meu histórico com os meios digitais.
-
 Profissionalmente, entre aprendizados e contribuições, pude fazer parte de empresas que foram verdadeiras escolas. Com isso, pude atuar como um agente transformador, buscando oportunidades de melhorias em processos e de inserção de novas atividades que trouxeram resultados positivos para a saúde financeira delas.
 
 ### Podemos nos conectar nos seguintes locais (conteúdos em atualização):
