@@ -15,9 +15,6 @@ Atualmente, finalizei um treinamento focado na stack JavaScript (por meio da Dig
 
 Profissionalmente, entre aprendizados e contribuições, pude fazer parte de empresas que foram verdadeiras escolas. Com isso, pude atuar como um agente transformador, buscando oportunidades de melhorias em processos e de inserção de novas atividades que trouxeram resultados positivos para a saúde financeira delas.
 
-### Treinamentos em andamento:
-* **Ui Design**: [UiBoost](https://uiboost.com.br/)
-
 ### Podemos nos conectar nos seguintes locais (conteúdos em atualização):
 - [LinkedIn](https://www.linkedin.com/in/danilobatista/)
 - [Repositório de códigos](https://github.com/danilo-batista)
