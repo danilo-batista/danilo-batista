@@ -4,10 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Olá! Eu sou o <mark>&nbsp;Danilo Batista!&nbsp;</mark><br />
-### Seja bem-vindo ao meu <mark>&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark>
+### Seja bem-vindo ao meu <mark color="#22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark>
 <br />
 
- 🔭  Atualmente estou <font color="#22D4FD">trabalhando</font> no meu crescimento em me tornar um <mark><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
+ 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <mark><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
   
  🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
 
