@@ -3,15 +3,17 @@ danilo-batista/danilo-batista is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
  
-<h1 style="border: none"># Olá! Eu sou o <mark style="border-radius: 0.25rem; background-color: #22D4FD;">&nbsp;Danilo Batista!&nbsp;</mark><br /><p style="font-size: 1.375rem; padding: 0.5rem 0">Seja bem-vindo ao meu <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark></p></h1>
+<h1 style="border: none"># Olá! Eu sou o <span style="border-radius: 0.25rem; background-color: #22D4FD; color: #000">&nbsp;Danilo Batista!&nbsp;</span><br /><p style="font-size: 1.375rem; padding: 0.5rem 0">Seja bem-vindo ao meu <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</span></p></h1>
 
- 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
+<h1 style="border: none"># Olá! Eu sou o <span style="border-radius: 0.25rem; background-color: #22D4FD;">&nbsp;Danilo Batista!&nbsp;</span><br /><p style="font-size: 1.375rem; padding: 0.5rem 0">Seja bem-vindo ao meu <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</span></p></h1>
+
+ 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <span style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</span> especializado utilizando como ferramenta técnica a biblioteca <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;React.js.</strong>&nbsp;</span> 
   
- 🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
+ 🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</span> continuamente.
 
- 👯 Estou procurando <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;colaborar</strong>&nbsp;</mark> em projetos de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;front-end</strong>&nbsp;</mark> tanto na área de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolvimento</strong>&nbsp;</mark> como posso <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;agregar</strong>&nbsp;</mark> na parte de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;UI</strong>&nbsp;</mark> devido ao meu <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;background</strong>&nbsp;</mark> em Design.
+ 👯 Estou procurando <span style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;colaborar</strong>&nbsp;</span> em projetos de <span style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;front-end</strong>&nbsp;</span> tanto na área de <span style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolvimento</strong>&nbsp;</span> como posso <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;agregar</strong>&nbsp;</span> na parte de <span style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;UI</strong>&nbsp;</span> devido ao meu <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;background</strong>&nbsp;</span> em Design.
 
- 🤔 Estou procurando ajuda com melhores formas de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e também como <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></mark><br /><br />
+ 🤔 Estou procurando ajuda com melhores formas de <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolver soluções</strong>&nbsp;</span> e também como <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></span><br /><br />
 
 <hr />
 
@@ -56,14 +58,14 @@ You can click the Preview link to take a look at your changes.
 
 <h2 style="border: none">Curiosidades:</h2>
 
- **⚡ Vim da área de Design Gráfico:** mais de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;22 anos de experiência&nbsp;</mark><br />
+ **⚡ Vim da área de Design Gráfico:** mais de <span style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;22 anos de experiência&nbsp;</span><br />
  **⚡ Gosto de jogar videogame:** atualmente alterno entre ***RPGs*** superelaborados e ***party games.***<br />
  **⚡ Esportes caem bem:** Gosto de um futebol de salão, vôlei e natação.<br /><br />
 
 <hr />
 
 
- <h2 style="border: none"> 📫 Como entrar em contato comigo <span style="font-size: 1rem; padding: 0.5rem">😄 ***(Ele/Dele)***</span></h2>
+ <h2 style="border: none"> 📫 Entre em contato comigo <span style="font-size: 1rem; padding: 0.5rem">😄 ***(Ele/Dele)***</span></h2>
 
 <p style="display:flex; justify-content:flex-start; gap:1rem;">
     <a href="https://github.com/danilo-batista"><img style="border-radius: 0.375rem" src="https://img.shields.io/badge/github-555?style=for-the-badge&logo=github" alt="Link para o perfil do GitHub." loading="lazy" /></a>
