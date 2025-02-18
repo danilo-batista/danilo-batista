@@ -45,11 +45,10 @@ You can click the Preview link to take a look at your changes.
  **⚡ Gosto de jogar videogame:** atualmente alterno entre ***RPGs*** superelaborados e ***party games.***<br />
  **⚡ Esportes caem bem:** Gosto de um futebol de salão, vôlei e natação.<br /><br />
 
-<hr />
+<br />
 
  ## 📫 Entre em contato comigo 😄 _(Ele/Dele)_
-<p style="display:flex; justify-content:flex-start; gap:1rem;">
-    <a href="https://github.com/danilo-batista"><img style="border-radius: 0.375rem" src="https://img.shields.io/badge/github-555?style=for-the-badge&logo=github" alt="Link para o perfil do GitHub." loading="lazy" /></a>
-    <a href="https://www.linkedin.com/in/danilobatista"><img style="border-radius: 0.375rem;" src="https://img.shields.io/badge/linkedin-333?style=for-the-badge&logo=linkedin" alt="Link para o perfil do LinkedIn." loading="lazy" /></a>
-    <a href="https://www.danilobatista.com"><img style="border-radius: 0.375rem" src="https://img.shields.io/badge/portfolio-222?style=for-the-badge&logo=microsoftedge" alt="Link para o portifólio." loading="lazy" /></a>
-</p>
+
+<a href="https://github.com/danilo-batista"><img src="https://img.shields.io/badge/github-555?style=for-the-badge&logo=github" alt="Link para o perfil do GitHub." loading="lazy" /></a>
+<a href="https://www.linkedin.com/in/danilobatista"><img src="https://img.shields.io/badge/linkedin-333?style=for-the-badge&logo=linkedin" alt="Link para o perfil do LinkedIn." loading="lazy" /></a>
+ <a href="https://www.danilobatista.com"><img src="https://img.shields.io/badge/portfolio-222?style=for-the-badge&logo=microsoftedge" alt="Link para o portifólio." loading="lazy" /></a>
