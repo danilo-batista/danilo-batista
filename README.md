@@ -3,19 +3,21 @@ danilo-batista/danilo-batista is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 style="border: none">Olá! Eu sou o <mark style="display: inline; border-radius: 0.25rem; background-color: #22D4FD; color: #000">&nbsp;Danilo Batista!&nbsp;</mark><br /><p style="font-size: 1.375rem; padding: 0.5rem 0">Seja bem-vindo ao meu <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark></p></h1>
+# Olá! Eu sou o <mark>&nbsp;Danilo Batista!&nbsp;</mark><br />
+### Seja bem-vindo ao meu <mark>&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark>
+<br />
 
- 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
+ 🔭  Atualmente estou <font color="#22D4FD">trabalhando</font> no meu crescimento em me tornar um <mark><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
   
- 🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
+ 🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
 
  👯 Estou procurando <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;colaborar</strong>&nbsp;</mark> em projetos de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;front-end</strong>&nbsp;</mark> tanto na área de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolvimento</strong>&nbsp;</mark> como posso <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;agregar</strong>&nbsp;</mark> na parte de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;UI</strong>&nbsp;</mark> devido ao meu <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;background</strong>&nbsp;</mark> em Design.
 
- 🤔 Estou procurando ajuda com melhores formas de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e também como <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></mark><br /><br />
+ 🤔 Estou procurando ajuda com melhores formas de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e também como <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></mark>
+ 
+ <br />
 
-<hr />
-
- <h2 style="border: none">Ferramentas e tecnologias:</h2>
+ <h2>Ferramentas e tecnologias:</h2>
 
 **Front-End**<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />&nbsp;
