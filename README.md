@@ -2,16 +2,15 @@
 danilo-batista/danilo-batista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-    mark {
+.mark {
         border-radius: 0.25rem;
         background-color: #22D4FD;
     }
-</style>
 
-<h1 style="border: none">Olá! Eu sou o <mark style="display: inline; border-radius: 0.25rem; background-color: #22D4FD; color: #000">&nbsp;Danilo Batista!&nbsp;</mark><br /><p style="font-size: 1.375rem; padding: 0.5rem 0">Seja bem-vindo ao meu <mark>&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark></p></h1>
 
- 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <mark style="border-radius: 0.25rem; background-color: #22D4FD;"><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
+<h1 style="border: none">Olá! Eu sou o <mark style="display: inline; border-radius: 0.25rem; background-color: #22D4FD; color: #000">&nbsp;Danilo Batista!&nbsp;</mark><br /><p style="font-size: 1.375rem; padding: 0.5rem 0">Seja bem-vindo ao meu <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark></p></h1>
+
+ 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <span class="mark">><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</span> especializado utilizando como ferramenta técnica a biblioteca <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
   
  🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
 
