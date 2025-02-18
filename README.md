@@ -4,16 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Olá! Eu sou o <mark>&nbsp;Danilo Batista!&nbsp;</mark><br />
-### Seja bem-vindo ao meu <mark font="#22D4FD">&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark>
+### Seja bem-vindo ao meu <mark>&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark>
 <br />
 
  🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <mark><strong>&nbsp;Desenvolvedor Front-end,</strong>&nbsp;</mark> especializado utilizando como ferramenta técnica a biblioteca <mark><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
   
  🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
 
- 👯 Estou procurando <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;colaborar</strong>&nbsp;</mark> em projetos de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;front-end</strong>&nbsp;</mark> tanto na área de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolvimento</strong>&nbsp;</mark> como posso <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;agregar</strong>&nbsp;</mark> na parte de <mark style="border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;UI</strong>&nbsp;</mark> devido ao meu <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;background</strong>&nbsp;</mark> em Design.
+ 👯 Estou procurando <mark><strong>&nbsp;colaborar</strong>&nbsp;</mark> em projetos de <mark><strong>&nbsp;front-end</strong>&nbsp;</mark> tanto na área de <mark><strong>&nbsp;desenvolvimento</strong>&nbsp;</mark> como posso <mark><strong>&nbsp;agregar</strong>&nbsp;</mark> na parte de <mark><strong>&nbsp;UI</strong>&nbsp;</mark> devido ao meu <mark><strong>&nbsp;background</strong>&nbsp;</mark> em Design.
 
- 🤔 Estou procurando ajuda com melhores formas de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e também como <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></mark>
+ 🤔 Estou procurando ajuda com melhores formas de <mark><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e também como <mark><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></mark>
  
  <br />
 
@@ -37,10 +37,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" />&nbsp;<br /><br />
 
-<hr />
-
+<br />
           
-<h2 style="border: none">Curiosidades:</h2>
+## Curiosidades:
 
  **⚡ Vim da área de Design Gráfico:** mais de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;22 anos de experiência&nbsp;</strong></mark><br />
  **⚡ Gosto de jogar videogame:** atualmente alterno entre ***RPGs*** superelaborados e ***party games.***<br />
@@ -48,9 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr />
 
-
- <h2 style="border: none"> 📫 Entre em contato comigo <span style="font-size: 1rem; padding: 0.5rem">😄 ***(Ele/Dele)***</span></h2>
-
+ ## 📫 Entre em contato comigo 😄 _(Ele/Dele)_
 <p style="display:flex; justify-content:flex-start; gap:1rem;">
     <a href="https://github.com/danilo-batista"><img style="border-radius: 0.375rem" src="https://img.shields.io/badge/github-555?style=for-the-badge&logo=github" alt="Link para o perfil do GitHub." loading="lazy" /></a>
     <a href="https://www.linkedin.com/in/danilobatista"><img style="border-radius: 0.375rem;" src="https://img.shields.io/badge/linkedin-333?style=for-the-badge&logo=linkedin" alt="Link para o perfil do LinkedIn." loading="lazy" /></a>
