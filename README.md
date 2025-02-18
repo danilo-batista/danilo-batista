@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
  <h2 style="border: none">Ferramentas e tecnologias:</h2>
 
- <p style="border: 1px solid green">
+ <p style="color: #DDD">
  Teste
  </p>
 
