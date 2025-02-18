@@ -17,6 +17,10 @@ You can click the Preview link to take a look at your changes.
 
  <h2 style="border: none">Ferramentas e tecnologias:</h2>
 
+ <div style="border: 1px solid green">
+ Teste
+ </div>
+
 <div style="display:flex; align-items: center; flex-wrap: wrap;">
     <div>
         <fieldset style="border: 1px solid #000; display:flex; align-items: center; gap: 1.5rem;">
