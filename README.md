@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
- ## 📫 Entre em contato comigo<br />### 😄 _(Ele/Dele)_
+ ## 📫 Entre em contato comigo<br /> 😄 _(Ele/Dele)_
 
 <a href="https://github.com/danilo-batista"><img src="https://img.shields.io/badge/github-555?style=for-the-badge&logo=github" alt="Link para o perfil do GitHub." loading="lazy" /></a>
 <a href="https://www.linkedin.com/in/danilobatista"><img src="https://img.shields.io/badge/linkedin-333?style=for-the-badge&logo=linkedin" alt="Link para o perfil do LinkedIn." loading="lazy" /></a>
