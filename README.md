@@ -7,13 +7,13 @@ You can click the Preview link to take a look at your changes.
 ### Seja bem-vindo ao meu <mark>&nbsp;portifólio técnico de soluções.</strong>&nbsp;</mark>
 <br />
 
- 🔭  Atualmente estou trabalhando no meu crescimento em me tornar um <mark><strong>&nbsp;Desenvolvedor Front-end</strong>&nbsp;</mark> especializado, utilizando como ferramenta técnica a biblioteca <mark><strong>&nbsp;React.js.</strong>&nbsp;</mark> 
+ 🔭  Atualmente, estou focado no meu crescimento para me tornar um <mark><strong>&nbsp;Desenvolvedor Front-End</strong>&nbsp;</mark> especializado, utilizando a biblioteca <mark><strong>&nbsp;React.js</strong>&nbsp;</mark> como principal ferramenta.
   
- 🌱 Para isso, estou focado nos treinamentos desta tecnologia e não esquecendo de aprimorar a base de <mark><strong>&nbsp;HTML, CSS e Javascript</strong>&nbsp;</mark> continuamente.
+ 🌱 Para isso, estou dedicado aos treinamentos nessa tecnologia, sem deixar de aprimorar continuamente minha base em <mark><strong>&nbsp;HTML, CSS e JavaScript.</strong>&nbsp;</mark>
 
- 👯 Estou procurando <mark><strong>&nbsp;colaborar</strong>&nbsp;</mark> em projetos de <mark><strong>&nbsp;front-end</strong>&nbsp;</mark> tanto na área de <mark><strong>&nbsp;desenvolvimento</strong>&nbsp;</mark> como posso <mark><strong>&nbsp;agregar</strong>&nbsp;</mark> na parte de <mark><strong>&nbsp;UI</strong>&nbsp;</mark> devido ao meu <mark><strong>&nbsp;background</strong>&nbsp;</mark> em Design.
+ 👯 Busco <mark><strong>&nbsp;colaborar</strong>&nbsp;</mark> em projetos de <mark><strong>&nbsp;front-end</strong>&nbsp;</mark>, tanto na área de <mark><strong>&nbsp;desenvolvimento</strong>&nbsp;</mark> quanto na parte de <mark><strong>&nbsp;UI,</strong>&nbsp;</mark> aproveitando meu <mark><strong>&nbsp;background</strong>&nbsp;</mark> em Design.
 
- 🤔 Estou procurando ajuda com melhores formas de <mark><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e também como <mark><strong>&nbsp;aperfeiçoar a minha forma de adquirir conhecimentos.&nbsp;</strong></mark>
+ 🤔 Estou em busca de formas mais eficientes de <mark><strong>&nbsp;desenvolver soluções</strong>&nbsp;</mark> e de <mark><strong>&nbsp;aprimorar</strong>&nbsp;</mark> minha maneira de adquirir conhecimento.
  
  <br />
 
@@ -45,13 +45,13 @@ You can click the Preview link to take a look at your changes.
           
 ## Curiosidades:
 
- **⚡ Vim da área de Design Gráfico:** mais de <mark style="padding-bottom: 0.15rem; border-radius: 0.25rem; background-color: #22D4FD"><strong>&nbsp;22 anos de experiência&nbsp;</strong></mark><br />
- **⚡ Gosto de jogar videogame:** atualmente alterno entre ***RPGs*** superelaborados e ***party games.***<br />
- **⚡ Esportes caem bem:** Gosto de um futebol de salão, vôlei e natação.<br /><br />
+ **⚡ Vim da área de Design Gráfico:** tenho mais de <mark><strong>&nbsp;22 anos de experiência.</strong>&nbsp;</mark><br />
+ **⚡ Gosto de jogar videogame:** atualmente, alterno entre _RPGs_ superelaborados e _party games_.<br />
+ **⚡ Esportes caem bem:** gosto de futebol de salão, vôlei e natação.<br /><br />
 
 <br />
 
- ## 📫 Entre em contato comigo 😄 _(Ele/Dele)_
+ ## 📫 Entre em contato comigo<br />### 😄 _(Ele/Dele)_
 
 <a href="https://github.com/danilo-batista"><img src="https://img.shields.io/badge/github-555?style=for-the-badge&logo=github" alt="Link para o perfil do GitHub." loading="lazy" /></a>
 <a href="https://www.linkedin.com/in/danilobatista"><img src="https://img.shields.io/badge/linkedin-333?style=for-the-badge&logo=linkedin" alt="Link para o perfil do LinkedIn." loading="lazy" /></a>
